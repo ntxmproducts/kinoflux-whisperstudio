@@ -1,5 +1,5 @@
 <div style="text-align: center; display: flex; flex-direction: row; align-items: center; justify-content: center; gap: 20px; margin-bottom: 20px;">
-<img src="images/main-no-bg.png" alt="Kinoflux Whisper Studio Logo" width="50"><h1 style="margin: 0;">Kinoflux Whisper Studio</h1>
+<img src="images/main-logo-no-bg.png" alt="Kinoflux Whisper Studio Logo" width="50"><h1 style="margin: 0;">Kinoflux Whisper Studio</h1>
 </div>
 
 **Convert audio and video to accurate transcripts and subtitles in seconds.**
